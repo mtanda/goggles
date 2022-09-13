@@ -1,0 +1,7 @@
+! name: Tech Community Japan
+! description: Tech Community Japan
+! public: false
+! author: mtanda
+
+$boost=3,site=zenn.dev
+$boost=3,site=qiita.com
